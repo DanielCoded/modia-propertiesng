@@ -1,0 +1,68 @@
+import type { PropertyType } from "./types"
+
+export const properties: PropertyType[] = [
+  {
+    id: "1",
+    title: "5 Bedroom Detached Duplex with BQ",
+    description: "Spacious 5 bedroom detached duplex with BQ in Kuje Home City",
+    price: "2,000,000 Naira",
+    location: "Kuje Home City, Abuja",
+    size: "500Sqm",
+    type: "Detached Duplex",
+  },
+  {
+    id: "2",
+    title: "4 Bedroom Detached Duplex",
+    description: "Beautiful 4 bedroom detached duplex in a serene environment",
+    price: "1,500,000 Naira",
+    location: "Kuje Home City, Abuja",
+    size: "400Sqm",
+    type: "Detached Duplex",
+  },
+  {
+    id: "3",
+    title: "3 Bedroom Detached Bungalow",
+    description: "Elegant 3 bedroom detached bungalow with modern finishes",
+    price: "1,500,000 Naira",
+    location: "Kuje Home City, Abuja",
+    size: "400Sqm",
+    type: "Detached Bungalow",
+  },
+  {
+    id: "4",
+    title: "3 Bedroom Detached Bungalow",
+    description: "Premium 3 bedroom detached bungalow in Modia Estate",
+    price: "5,000,000 Naira",
+    location: "Modia Estate Phase 4, Kurudu By Army Estate, Abuja",
+    size: "400Sqm",
+    type: "Detached Bungalow",
+  },
+  {
+    id: "5",
+    title: "3 Bedroom Semi Detached Bungalow",
+    description: "Affordable 3 bedroom semi detached bungalow in a secure estate",
+    price: "3,000,000 Naira",
+    location: "Modia Estate Phase 4, Kurudu By Army Estate, Abuja",
+    size: "280Sqm",
+    type: "Semi Detached Bungalow",
+  },
+  {
+    id: "6",
+    title: "5 Bedroom Detached Duplex",
+    description: "Luxury 5 bedroom detached duplex in KOKO Court",
+    price: "60,000,000 Naira",
+    location: "KOKO Court, Galadimawa, Abuja",
+    size: "450Sqm",
+    type: "Detached Duplex",
+  },
+  {
+    id: "7",
+    title: "4 Bedroom Semi Detached Duplex",
+    description: "Exquisite 4 bedroom semi detached duplex in prime location",
+    price: "45,000,000 Naira",
+    location: "KOKO Court, Galadimawa, Abuja",
+    size: "370Sqm",
+    type: "Semi Detached Duplex",
+  },
+]
+
